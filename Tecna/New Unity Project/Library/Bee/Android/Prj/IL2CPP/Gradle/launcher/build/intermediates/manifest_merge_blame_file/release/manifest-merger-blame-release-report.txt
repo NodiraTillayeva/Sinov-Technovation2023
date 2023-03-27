@@ -1,0 +1,241 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Tecna.Tecna"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="26"
+9-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030002" />
+19-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+20    <uses-feature
+20-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+22        android:required="false" />
+22-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+24-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+25
+26    <uses-feature
+26-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+28        android:required="false" />
+28-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+31        android:required="false" />
+31-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+32    <uses-feature
+32-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+34        android:required="false" />
+34-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+35    <!--
+36      #gles3 - glEsVersion is 0x00030000 for OpenGL ES 3.0 support. Change it to 0x00020000 if
+37      only OpenGL ES 2.0 support is needed.
+38    -->
+39    <uses-permission android:name="android.permission.CAMERA" />
+39-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:17:5-65
+39-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:17:22-62
+40    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+40-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:18:5-81
+40-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:18:22-78
+41    <uses-permission android:name="android.permission.NFC" />
+41-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:20:5-62
+41-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:20:22-59
+42
+43    <application
+43-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.7.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\f243f87f287fb4f4052bd069a9b71980\core-1.7.0\AndroidManifest.xml:24:18-86
+45        android:extractNativeLibs="true"
+45-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
+46        android:icon="@mipmap/app_icon"
+46-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+47        android:label="@string/app_name" >
+47-->C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+48        <activity
+48-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
+49            android:name="com.unity3d.player.UnityPlayerActivity"
+49-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
+50            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+50-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
+51            android:exported="true"
+51-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
+52            android:hardwareAccelerated="false"
+52-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+53            android:launchMode="singleTask"
+53-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+54            android:resizeableActivity="false"
+54-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+55            android:screenOrientation="reverseLandscape"
+55-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-57
+56            android:theme="@style/UnityThemeSelector" >
+56-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+57            <intent-filter>
+57-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+58-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+60-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+61            </intent-filter>
+62
+63            <meta-data
+63-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+64                android:name="unityplayer.UnityActivity"
+64-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+65                android:value="true" />
+65-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+66            <meta-data
+66-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+67                android:name="android.notch_support"
+67-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+68                android:value="true" />
+68-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+69        </activity>
+70
+71        <meta-data
+71-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+72            android:name="unity.splash-mode"
+72-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+73            android:value="0" />
+73-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+74        <meta-data
+74-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+75            android:name="unity.splash-enable"
+75-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+76            android:value="True" />
+76-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+77        <meta-data
+77-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+78            android:name="unity.launch-fullscreen"
+78-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+79            android:value="True" />
+79-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+80        <meta-data
+80-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
+81            android:name="unity.allow-resizable-window"
+81-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
+82            android:value="False" />
+82-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
+83        <meta-data
+83-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
+84            android:name="notch.config"
+84-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
+85            android:value="portrait|landscape" />
+85-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+86        <meta-data
+86-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:9-70:36
+87            android:name="unity.auto-report-fully-drawn"
+87-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-57
+88            android:value="true" />
+88-->[:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-33
+89
+90        <activity
+90-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:23:9-27:66
+91            android:name="com.google.cardboard.sdk.QrCodeCaptureActivity"
+91-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:24:13-74
+92            android:exported="false"
+92-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:25:13-37
+93            android:label="@string/title_activity_qr_code_capture"
+93-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:26:13-67
+94            android:theme="@style/Theme.AppCompat.NoActionBar" />
+94-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:27:13-63
+95        <!--
+96          Activity whose sole purpose is to update Cardboard device params when a Cardboard V1
+97          NFC tag is detected.
+98        -->
+99        <activity
+99-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:33:9-46:20
+100            android:name="com.google.cardboard.sdk.HeadsetDetectionActivity"
+100-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:34:13-77
+101            android:exported="true"
+101-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:35:13-36
+102            android:label="@string/headset_detection_activity_title" >
+102-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:36:13-69
+103
+104            <!-- Handles the Cardboard V1 NFC tag released at Google I/O 2014. -->
+105            <intent-filter>
+105-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:39:13-45:29
+106                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+106-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:40:17-77
+106-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:40:25-74
+107
+108                <category android:name="android.intent.category.DEFAULT" />
+108-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:42:17-76
+108-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:42:27-73
+109
+110                <data android:scheme="cardboard" />
+110-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:44:17-52
+110-->[:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:44:23-49
+111            </intent-filter>
+112        </activity>
+113        <activity
+113-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+114            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+114-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+115            android:exported="false"
+115-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+116-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+117
+118        <meta-data
+118-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+119            android:name="com.google.android.gms.version"
+119-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+120            android:value="@integer/google_play_services_version" />
+120-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+121
+122        <provider
+122-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+123            android:name="androidx.startup.InitializationProvider"
+123-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+124            android:authorities="com.Tecna.Tecna.androidx-startup"
+124-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+125            android:exported="false" >
+125-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+126            <meta-data
+126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+127                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+128                android:value="androidx.startup" />
+128-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+129            <meta-data
+129-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\e06841608eedd99949a590a817674784\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+130                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+130-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\e06841608eedd99949a590a817674784\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+131                android:value="androidx.startup" />
+131-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\e06841608eedd99949a590a817674784\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+132        </provider>
+133    </application>
+134
+135</manifest>

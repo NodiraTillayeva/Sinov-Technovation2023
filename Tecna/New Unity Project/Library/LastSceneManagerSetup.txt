@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scenes/HelloCardboard.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
