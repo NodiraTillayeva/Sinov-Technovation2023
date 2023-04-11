@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nara\\OneDrive\\Desktop\\Tecna\\New Unity Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\Nara\\OneDrive\\Desktop\\Tech2023\\Tecna\\New Unity Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nara\\.gradle\\caches\\transforms-2\\files-2.1\\8bdb0c92999354b2b1d964721d404219\\jetified-play-services-base-17.4.0\\res\\values-et\\values.xml",

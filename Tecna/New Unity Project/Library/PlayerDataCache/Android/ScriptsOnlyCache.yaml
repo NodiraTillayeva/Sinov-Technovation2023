@@ -2,9 +2,8 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraPointer
-    - CardboardStartup
     - GraphicsAPITextController
-    - ObjectController
+    - Teleporter
     Google.XR.Cardboard.dll:
     - Google.XR.Cardboard.XRLoader
     Unity.Rider.Editor.dll:
@@ -42,7 +41,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 64
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -53,32 +52,34 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 30306}
+      Script: {instanceID: 1520}
     - Class: 114
-      Script: {instanceID: 30588}
+      Script: {instanceID: 1864}
     - Class: 114
-      Script: {instanceID: 30590}
+      Script: {instanceID: 5690}
     - Class: 114
-      Script: {instanceID: 30592}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 30594}
+      Script: {instanceID: 22564}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
-    - Class: 135
-      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    - Class: 224
-      Script: {instanceID: 0}
     - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -91,6 +92,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -133,6 +140,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMouseExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: ee1a2665ef8074c4443087ad7a40af54
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Teleporter
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -357,6 +370,12 @@ ScriptsOnlyBuild:
     className: UnityOnControllerColliderHitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRGeneralSettings
+  - hash:
+      serializedVersion: 2
       Hash: 27ec3360f0c0a6803ba71cc3106480b8
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -373,6 +392,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnCollisionExit2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab9295d94483c961936d82d233d3df2
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRManagerSettings
   - hash:
       serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
@@ -484,6 +509,18 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneTransition
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Google.XR.Cardboard.dll
+    namespaceName: Google.XR.Cardboard
+    className: XRSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ActivationPlayableAsset
@@ -513,6 +550,12 @@ ScriptsOnlyBuild:
     className: UnityOnEndDragMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 24c74cc0d527a06113f2b967042769f0
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEditor.XR.LegacyInputHelpers
+    className: CameraOffset
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -529,6 +572,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
   - hash:
       serializedVersion: 2
       Hash: bcaee4c2a83047257b5f47d6ed264b75
@@ -610,6 +659,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Google.XR.Cardboard.dll
+    namespaceName: Google.XR.Cardboard
+    className: XRLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: AnimatorMessageListener
@@ -628,9 +683,27 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CardboardStartup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphicsAPITextController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMouseUpAsButtonMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: c5866c6b2c7208fce3a30c9858d4af4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectController
   - hash:
       serializedVersion: 2
       Hash: e09e8bebc0fcd32bb8af1287a6b44816
@@ -777,6 +850,12 @@ ScriptsOnlyBuild:
     className: UnityOnMoveMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraPointer
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -787,6 +866,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -832,6 +917,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VrModeController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnToggleValueChangedMessageListener
@@ -853,91 +944,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 24c74cc0d527a06113f2b967042769f0
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEditor.XR.LegacyInputHelpers
-    className: CameraOffset
-  - hash:
-      serializedVersion: 2
-      Hash: d251bf88db6c95a6b1aa0b69298da9ef
-    assemblyName: UnityEngine.SpatialTracking.dll
-    namespaceName: UnityEngine.SpatialTracking
-    className: TrackedPoseDriver
-  - hash:
-      serializedVersion: 2
-      Hash: 04e4a8b0447477cc4e933d9e5311188f
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEngine.XR.LegacyInputHelpers
-    className: ArmModel
-  - hash:
-      serializedVersion: 2
-      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEngine.XR.LegacyInputHelpers
-    className: TransitionArmModel
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Google.XR.Cardboard.dll
-    namespaceName: Google.XR.Cardboard
-    className: XRLoader
-  - hash:
-      serializedVersion: 2
-      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
-    assemblyName: Unity.XR.Management.dll
-    namespaceName: UnityEngine.XR.Management
-    className: XRGeneralSettings
-  - hash:
-      serializedVersion: 2
-      Hash: 8ab9295d94483c961936d82d233d3df2
-    assemblyName: Unity.XR.Management.dll
-    namespaceName: UnityEngine.XR.Management
-    className: XRManagerSettings
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Google.XR.Cardboard.dll
-    namespaceName: Google.XR.Cardboard
-    className: XRSettings
-  - hash:
-      serializedVersion: 2
-      Hash: 893dbdbfe611d62e230a686ea89f1efd
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEngine.XR.LegacyInputHelpers
-    className: SwingArmModel
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: VrModeController
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GraphicsAPITextController
-  - hash:
-      serializedVersion: 2
-      Hash: c5866c6b2c7208fce3a30c9858d4af4e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ObjectController
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CardboardStartup
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraPointer
   platform: 13
   scenePathNames:
   - Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scenes/HelloCardboard.unity
-  playerPath: C:/Users/Nara/OneDrive/Desktop/Tecna/Tecna.apk
+  playerPath: C:/Users/Nara/OneDrive/Desktop/Tech2023/Tecna/New Unity Project/ChangeScenesFinal.apk

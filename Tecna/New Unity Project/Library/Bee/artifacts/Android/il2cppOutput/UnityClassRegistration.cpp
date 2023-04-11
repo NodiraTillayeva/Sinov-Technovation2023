@@ -103,11 +103,10 @@ class Texture2DArray; template <> void RegisterUnityClass<Texture2DArray>(const 
 class Texture3D; template <> void RegisterUnityClass<Texture3D>(const char*);
 class TimeManager; template <> void RegisterUnityClass<TimeManager>(const char*);
 class Transform; template <> void RegisterUnityClass<Transform>(const char*);
+class BoxCollider; template <> void RegisterUnityClass<BoxCollider>(const char*);
 class Collider; template <> void RegisterUnityClass<Collider>(const char*);
-class MeshCollider; template <> void RegisterUnityClass<MeshCollider>(const char*);
 class PhysicsManager; template <> void RegisterUnityClass<PhysicsManager>(const char*);
 class Rigidbody; template <> void RegisterUnityClass<Rigidbody>(const char*);
-class SphereCollider; template <> void RegisterUnityClass<SphereCollider>(const char*);
 namespace TextRendering { class Font; } template <> void RegisterUnityClass<TextRendering::Font>(const char*);
 namespace TextRenderingPrivate { class TextMesh; } template <> void RegisterUnityClass<TextRenderingPrivate::TextMesh>(const char*);
 
@@ -115,7 +114,7 @@ void RegisterAllClasses()
 {
 void RegisterBuiltinTypes();
 RegisterBuiltinTypes();
-	//Total: 64 non stripped classes
+	//Total: 63 non stripped classes
 	//0. AudioBehaviour
 	RegisterUnityClass<AudioBehaviour>("Audio");
 	//1. AudioClip
@@ -230,19 +229,17 @@ RegisterBuiltinTypes();
 	RegisterUnityClass<TimeManager>("Core");
 	//56. Transform
 	RegisterUnityClass<Transform>("Core");
-	//57. Collider
+	//57. BoxCollider
+	RegisterUnityClass<BoxCollider>("Physics");
+	//58. Collider
 	RegisterUnityClass<Collider>("Physics");
-	//58. MeshCollider
-	RegisterUnityClass<MeshCollider>("Physics");
 	//59. PhysicsManager
 	RegisterUnityClass<PhysicsManager>("Physics");
 	//60. Rigidbody
 	RegisterUnityClass<Rigidbody>("Physics");
-	//61. SphereCollider
-	RegisterUnityClass<SphereCollider>("Physics");
-	//62. Font
+	//61. Font
 	RegisterUnityClass<TextRendering::Font>("TextRendering");
-	//63. TextMesh
+	//62. TextMesh
 	RegisterUnityClass<TextRenderingPrivate::TextMesh>("TextRendering");
 
 }

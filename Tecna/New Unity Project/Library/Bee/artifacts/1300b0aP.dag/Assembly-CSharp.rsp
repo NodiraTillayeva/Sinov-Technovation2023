@@ -293,7 +293,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VRModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.WindModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.XRModule.dll"
--r:"C:/Users/Nara/OneDrive/Desktop/Tecna/New Unity Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"C:/Users/Nara/OneDrive/Desktop/Tech2023/Tecna/New Unity Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Google.XR.Cardboard.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Subsystem.Registration.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.ref.dll"
@@ -309,6 +309,8 @@
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scripts/CardboardStartup.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scripts/GraphicsAPITextController.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scripts/ObjectController.cs"
+"Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scripts/SceneTransition.cs"
+"Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scripts/Teleporter.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scripts/VrModeController.cs"
 -langversion:9.0
 

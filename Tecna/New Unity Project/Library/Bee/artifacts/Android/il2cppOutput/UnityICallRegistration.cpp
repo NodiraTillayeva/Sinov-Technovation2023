@@ -660,6 +660,14 @@ void RegisterAllStrippedInternalCalls()
 
 	//End Registrations for type : UnityEngine.Application
 
+	//Start Registrations for type : UnityEngine.AsyncOperation
+
+		//System.Void UnityEngine.AsyncOperation::InternalDestroy(System.IntPtr)
+		void Register_UnityEngine_AsyncOperation_InternalDestroy();
+		Register_UnityEngine_AsyncOperation_InternalDestroy();
+
+	//End Registrations for type : UnityEngine.AsyncOperation
+
 	//Start Registrations for type : UnityEngine.AudioSettings
 
 		//System.Boolean UnityEngine.AudioSettings::StartAudioOutput()
@@ -1034,6 +1042,10 @@ void RegisterAllStrippedInternalCalls()
 
 	//Start Registrations for type : UnityEngine.Material
 
+		//System.Int32 UnityEngine.Material::GetFirstPropertyNameIdByAttribute(UnityEngine.Rendering.ShaderPropertyFlags)
+		void Register_UnityEngine_Material_GetFirstPropertyNameIdByAttribute();
+		Register_UnityEngine_Material_GetFirstPropertyNameIdByAttribute();
+
 		//System.Void UnityEngine.Material::CreateWithMaterial(UnityEngine.Material,UnityEngine.Material)
 		void Register_UnityEngine_Material_CreateWithMaterial();
 		Register_UnityEngine_Material_CreateWithMaterial();
@@ -1045,6 +1057,14 @@ void RegisterAllStrippedInternalCalls()
 		//System.Void UnityEngine.Material::CreateWithString(UnityEngine.Material)
 		void Register_UnityEngine_Material_CreateWithString();
 		Register_UnityEngine_Material_CreateWithString();
+
+		//System.Void UnityEngine.Material::GetColorImpl_Injected(System.Int32,UnityEngine.Color&)
+		void Register_UnityEngine_Material_GetColorImpl_Injected();
+		Register_UnityEngine_Material_GetColorImpl_Injected();
+
+		//System.Void UnityEngine.Material::SetColorImpl_Injected(System.Int32,UnityEngine.Color&)
+		void Register_UnityEngine_Material_SetColorImpl_Injected();
+		Register_UnityEngine_Material_SetColorImpl_Injected();
 
 	//End Registrations for type : UnityEngine.Material
 
@@ -1254,6 +1274,10 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Renderer_SetMaterial();
 		Register_UnityEngine_Renderer_SetMaterial();
 
+		//UnityEngine.Material UnityEngine.Renderer::GetMaterial()
+		void Register_UnityEngine_Renderer_GetMaterial();
+		Register_UnityEngine_Renderer_GetMaterial();
+
 	//End Registrations for type : UnityEngine.Renderer
 
 	//Start Registrations for type : UnityEngine.Rendering.GraphicsSettings
@@ -1324,6 +1348,26 @@ void RegisterAllStrippedInternalCalls()
 
 	//End Registrations for type : UnityEngine.ResourcesAPIInternal
 
+	//Start Registrations for type : UnityEngine.SceneManagement.SceneManager
+
+		//System.Int32 UnityEngine.SceneManagement.SceneManager::get_sceneCount()
+		void Register_UnityEngine_SceneManagement_SceneManager_get_sceneCount();
+		Register_UnityEngine_SceneManagement_SceneManager_get_sceneCount();
+
+		//System.Void UnityEngine.SceneManagement.SceneManager::GetSceneAt_Injected(System.Int32,UnityEngine.SceneManagement.Scene&)
+		void Register_UnityEngine_SceneManagement_SceneManager_GetSceneAt_Injected();
+		Register_UnityEngine_SceneManagement_SceneManager_GetSceneAt_Injected();
+
+	//End Registrations for type : UnityEngine.SceneManagement.SceneManager
+
+	//Start Registrations for type : UnityEngine.SceneManagement.SceneManagerAPIInternal
+
+		//UnityEngine.AsyncOperation UnityEngine.SceneManagement.SceneManagerAPIInternal::LoadSceneAsyncNameIndexInternal_Injected(System.String,System.Int32,UnityEngine.SceneManagement.LoadSceneParameters&,System.Boolean)
+		void Register_UnityEngine_SceneManagement_SceneManagerAPIInternal_LoadSceneAsyncNameIndexInternal_Injected();
+		Register_UnityEngine_SceneManagement_SceneManagerAPIInternal_LoadSceneAsyncNameIndexInternal_Injected();
+
+	//End Registrations for type : UnityEngine.SceneManagement.SceneManagerAPIInternal
+
 	//Start Registrations for type : UnityEngine.Screen
 
 		//System.Int32 UnityEngine.Screen::get_height()
@@ -1369,6 +1413,10 @@ void RegisterAllStrippedInternalCalls()
 	//End Registrations for type : UnityEngine.ScriptableObject
 
 	//Start Registrations for type : UnityEngine.Shader
+
+		//System.Int32 UnityEngine.Shader::PropertyToID(System.String)
+		void Register_UnityEngine_Shader_PropertyToID();
+		Register_UnityEngine_Shader_PropertyToID();
 
 		//System.Int32 UnityEngine.Shader::TagToID(System.String)
 		void Register_UnityEngine_Shader_TagToID();
@@ -1477,6 +1525,10 @@ void RegisterAllStrippedInternalCalls()
 	//End Registrations for type : UnityEngine.Texture3D
 
 	//Start Registrations for type : UnityEngine.Time
+
+		//System.Single UnityEngine.Time::get_deltaTime()
+		void Register_UnityEngine_Time_get_deltaTime();
+		Register_UnityEngine_Time_get_deltaTime();
 
 		//System.Single UnityEngine.Time::get_time()
 		void Register_UnityEngine_Time_get_time();

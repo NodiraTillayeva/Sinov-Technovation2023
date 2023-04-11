@@ -1,4 +1,4 @@
-#Sun Mar 26 19:54:56 UZT 2023
-base.0=C\:\\Users\\Nara\\OneDrive\\Desktop\\Tecna\\New Unity Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Tue Apr 11 23:51:32 UZT 2023
+base.0=C\:\\Users\\Nara\\OneDrive\\Desktop\\Tech2023\\Tecna\\New Unity Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nara\\OneDrive\\Desktop\\Tecna\\New Unity Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "C:\\Users\\Nara\\OneDrive\\Desktop\\Tech2023\\Tecna\\New Unity Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nara\\.gradle\\caches\\transforms-2\\files-2.1\\9e788877d1498ebda63702ab1c9845a2\\appcompat-1.4.2\\res\\values-port\\values-port.xml",

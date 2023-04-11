@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-73:12
+ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-73:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\a0ebba694f8e6a95bc427eaef4894530\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\9e788877d1498ebda63702ab1c9845a2\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
@@ -53,43 +53,43 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nara\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 	package
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-95
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-95
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:96-142
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:96-142
 	android:versionCode
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:143-183
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:143-183
 supports-screens
-ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
 application
-ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
-MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-71:19
-MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-71:19
+ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-71:19
+MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-71:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\a0ebba694f8e6a95bc427eaef4894530\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\a0ebba694f8e6a95bc427eaef4894530\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -121,19 +121,19 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nara\.gradle\c
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\974b7f007cd4ea167af520d80482197a\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\f243f87f287fb4f4052bd069a9b71980\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
 	android:icon
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
 uses-sdk
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
-MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\a0ebba694f8e6a95bc427eaef4894530\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\a0ebba694f8e6a95bc427eaef4894530\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
@@ -230,129 +230,129 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Nara\.gradle\caches\transforms
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 uses-feature#0x00030002
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
 	android:glEsVersion
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
 uses-feature#android.hardware.vulkan.version
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
 uses-permission#android.permission.INTERNET
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
 MERGED from [:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:19:5-67
 MERGED from [:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:19:5-67
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
 uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-57
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-57
 	android:launchMode
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
 	android:exported
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
 	android:resizeableActivity
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
 	android:configChanges
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
 	android:theme
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
 meta-data#android.notch_support
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
 meta-data#unity.launch-fullscreen
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
 meta-data#unity.allow-resizable-window
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
 meta-data#notch.config
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
 meta-data#unity.auto-report-fully-drawn
-ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:9-70:36
+ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:9-70:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-33
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-57
+		ADDED from [:unityLibrary] C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-57
 uses-feature#0x00030000
 ADDED from [:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:13:5-15:35
-REJECTED from C:\Users\Nara\OneDrive\Desktop\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:13:5-15:35
+REJECTED from C:\Users\Nara\OneDrive\Desktop\Tech2023\Tecna\New Unity Project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:13:5-15:35
 	android:glEsVersion
 		ADDED from [:GfxPluginCardboard:] C:\Users\Nara\.gradle\caches\transforms-2\files-2.1\d0ee82cb3bb2d458898f561f88839aa6\jetified-GfxPluginCardboard\AndroidManifest.xml:14:9-41
 	android:required
